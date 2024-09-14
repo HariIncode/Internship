@@ -44,7 +44,7 @@ The Figma file consists of:
 2. **UI Components**: Buttons, forms, icons, and navigation.
 3. **Final Prototype**: A high-fidelity, interactive design for a food delivery app.
 
-## Contact Information
+# Contact Information
 Feel free to reach out for questions or feedback:
-- Email: [hariharan3372@gmai.com]
-- LinkedIn: [Hariharan] (https://www.linkedin.com/in/hari-haran-192741256/)
+- Email: hariharan3372@gmail.com
+- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hari-haran-192741256/)
