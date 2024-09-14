@@ -93,7 +93,5 @@ The Figma file consists of:
 
 ## Contact Information
 Feel free to reach out for questions or feedback:
-- Email: [your email]
-- LinkedIn: [www.linkedin.com/in/
-hari-haran-192741256
-]
+- Email: hariharan3372@gmail.com
+- LinkedIn: [Hari Haran](https://www.linkedin.com/in/hari-haran-192741256/)
